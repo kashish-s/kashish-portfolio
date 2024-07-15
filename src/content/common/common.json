@@ -1,0 +1,30 @@
+{
+    "name": "Kashish Shah",
+    "logoType": {
+        "mobile": "KS",
+        "desktop": "Kashish Shah"
+    },
+    "mainPicture": "/assets/img.webp",
+    "mainPictureJPG": "/assets/img.jpg",
+    "pronunciation": "/kuh-shish/",
+    "audioFile": "/assets/name.m4a",
+    "cssVarPrefix": "ks",
+    "email": "kashisha@usc.edu",
+    "linkedin": "https://www.linkedin.com/in/kashish-shah-usc/",
+    "github": "https://github.com/kashish-s",
+    "resume": "https://drive.google.com/file/d/1vFnQX3buIiyZ_HKTTfdsD5Bq3ALoahVF/view?usp=sharing",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/kashish-shah-usc/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/kashish-s"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:kashisha@usc.edu"
+        }
+    ]
+}

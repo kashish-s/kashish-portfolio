@@ -1,0 +1,32 @@
+[
+    {
+        "id": "other-project-post",
+        "title": "LinkedIn Study - Premium Usage, Networking and Job Success",
+        "year": "Aug 2023 – Sep 2023",
+        "tags": ["Python", "SPSS", "Statistical Analysis", "Hypothesis Testing", "User Studies", "Research", "Surveying"],
+        "description": "Explored the impact of network activity and premium usage on job search strategies through hypothesis testing and statistical analysis in SPSS.",
+        "image": "/assets/other-projects/linkedin.webp",
+        "jpg": "/assets/other-projects/linkedin.png"
+
+    },
+    {
+        "id": "other-project-noq",
+        "title": "Top Scorer" ,
+        "year": "Aug 2022 – Dec 2022",
+        "github": "https://github.com/kashish-s/top-scorer-edfs/tree/main",
+        "tags": ["Linux Programming","Python","Flask", "MongoDB", "Hadoop","SQL","HTML/CSS","JavaScript"],
+        "description": "A web-based file management system based on HDFS using MySQL, MongoDB, and Python to reduce file management time and analyze soccer player goal statistics.",
+        "image": "/assets/other-projects/topscorer.webp",
+        "jpg": "/assets/other-projects/topscorer.jpeg"
+    },
+    {
+        "id": "other-project-bank-compare",
+        "title": "Kayra",
+        "year": " Aug 2020 – Mar 2021",
+        "github" : "https://github.com/kashish-s/Mental-Health-Chatbot-based-on-CBT",
+        "tags": ["Deep Learning","NLP","Python","GUI"],
+        "description": "A mental health conversational chatbot based on Cognitive Therapy with 98.11% diagnostic accuracy.",
+        "image": "/assets/other-projects/kayra.webp",
+        "jpg": "/assets/other-projects/bank.jpeg"
+    }
+]

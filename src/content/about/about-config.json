@@ -1,0 +1,126 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "University of Southern California",
+            "degree": "Master of Science in Applied Data Science",
+            "duration": "Aug 2022 - May 2024",
+            "content": [
+                "GPA: 3.9/4",
+                "Courses: Fairness in AI, Machine Learning, Deep Learning, Data Mining, Data Visualization"
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "DJ Sanghvi College of Engineering (University of Mumbai)",
+            "degree": "Bachelors in Electronics and Telecommunications Engineering (specialization in AI and Machine Learning)",
+            "duration": "Aug 2018 - May 2022",
+            "content": [
+                "GPA: 9.16/10",
+                "Courses: Data Structures and OOP, Computer Networks, DBMS, Computational Linguistics and NLP, Computer Vision"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "USC Information Sciences Institute - Humans Lab",
+            "position": "Graduate Research Programmer",
+            "duration": "Apr 2024 - Present",
+            "description": [
+                "Contributed to the development of a web scraper using Selenium for automation of data extraction from social media platforms."
+            ]
+        },
+        {
+            "id": "exp-2",
+            "company": "Audiencelogy",
+            "position": "Software Engineer Intern",
+            "duration": "Feb 2024 - May 2024",
+            "description": [
+                "Developed ETL data pipelines for time-series analysis, leveraging ARIMA, Prophet and LSTM models to forecast website traffic.",
+                "Conducted benchmarking analysis using metrics such as MSE, MAPE, AIC, and BIC to achieve targeted increases in hits.",
+                "Employed BERT, topic modeling, and sentiment analysis to develop NLP pipeline for determining gender-based interest in text."
+            ]
+        },
+        {
+            "id": "exp-3",
+            "company": "Strategy Asset Managers",
+            "position": "Software Engineer Intern",
+            "duration": "Jun 2023 - Jan 2024",
+            "description": [
+                "Reduced time from 3 hours to 2 minutes by independently designing Generative AI client discovery tool using GPT-3.5 LLM.",
+                "Transformed client interactions by pioneering prompt engineering for data extraction and client profile visualization interface.",
+                "Achieved 99% increase in efficiency by streamlining data management for 950+ accounts using Python in a cross-functional team."
+            ]
+        },
+        {
+            "id": "exp-4",
+            "company": "The Financialist",
+            "position": "Data Science Intern",
+            "duration": "Aug 2021 - Jan 2022",
+            "description": [
+                "Offered data-driven insights to 250+ clients by instituting Financial Health Checker that leveraged Python for predictive analytics.",
+                "Produced a gain of 30% in accuracy by back-testing and spearheading overhaul of forecasting strategies such Moving Averages."
+            ]
+        },
+        {
+            "id": "exp-5",
+            "company": "PhemeSoftware Pvt. Ltd.",
+            "position": "Python Development Intern",
+            "duration": "Jun 2021 - Jul 2021",
+            "description": [
+                "Led a team of 5 that procured 88/100 for development of a scalable Virtual Workspace for 25+ WFH employees.",
+                "Instituted a 10% boost in productivity by leveraging Django's REST API to enable remote team communication."
+
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": [
+                "Python",
+                "JavaScript",
+                "C/C++",
+                "Java",
+                "NoSQL",
+                "SQL",
+                "Shell",
+                "React",
+                "D3.js"
+            ]
+        },
+        {
+            "title": "Web",
+            "tools": ["React", "Vue", "NodeJS", "Flask", "Django","Streamlit","HTML/CSS"]
+        },
+        {
+            "title": "Database and Cloud Computing",
+            "tools": ["MongoDB", "DynamoDB", "PostgreSQL","MySQL", "Firebase","AWS (EC2, S3)"]
+        },
+
+        {
+            "title": "OS & Tools",
+            "tools": ["MacOS", "Linux", "Git", "Heroku", "Docker (Containerization)" ]
+        },
+        {
+            "title": "Data Science Libraries and Tools",
+            "tools": ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Scikit-Learn", "Spark","Hadoop","MapReduce","TensorFlow", "PyTorch", "SciPy", "OpenCV", "NLTK", "MATLAB", "Tableau"]
+
+        }
+        
+    ],
+    "blog": [
+        {
+            "id": "blog-1",
+            "title": "A beginner's guide to github",
+            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
+        },
+        {
+            "id": "blog-2",
+            "title": "User Experience Design – A little more than just design",
+            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
+        }
+    ]
+}
+
