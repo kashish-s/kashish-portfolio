@@ -47,7 +47,7 @@
         "title": "GynoAssist",
         "location":"DJSCE",
         "year": "Sep 2020 - Dec 2020",
-        "tags": ["Python","TensorFlow","CV2", "Computer Vision", "Convolution Neural Networks", "Deep Learning"],
+        "tags": ["Python","TensorFlow","OpenCV", "Computer Vision", "Convolution Neural Networks", "Deep Learning"],
         "github": "https://github.com/kashish-s/automatic-detection-of-PCOS",
         "description": "An automated PCOS detection system built using Computer Vision, CNNs and Image Processing.",
         "image": "/assets/featured-projects/pcos.webp",
