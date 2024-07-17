@@ -1,1 +1,1 @@
-I'm a _Software Engineer Intern_ at **Stealth Startup** based out of California. I recently graduated from University of Southern California with a Masters degree in Applied Data Science and I'm passionate about **Artificial Intelligence**, **Natural Language Processing**, **Software Development** and **Art**.
+I'm a graduate from University of Southern California with a Masters degree in Applied Data Science. I'm passionate about **Artificial Intelligence**, **Natural Language Processing**, **Software Development** and **Art**. And I love cats. :)
