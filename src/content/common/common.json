@@ -4,8 +4,8 @@
         "mobile": "KS",
         "desktop": "Kashish Shah"
     },
-    "mainPicture": "/assets/img.webp",
-    "mainPictureJPG": "/assets/img.jpg",
+    "mainPicture": "/assets/home.webp",
+    "mainPictureJPG": "/assets/home.jpg",
     "pronunciation": "/kuh-shish/",
     "audioFile": "/assets/name.m4a",
     "cssVarPrefix": "ks",
