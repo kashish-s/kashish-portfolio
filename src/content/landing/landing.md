@@ -1,1 +1,1 @@
-I'm a graduate from University of Southern California with a Masters degree in Applied Data Science. I'm passionate about **Artificial Intelligence**, **Natural Language Processing**, **Software Development** and **Art**. And I love cats. :)
+I'm a graduate from University of Southern California with a Masters degree in Applied Data Science. I'm passionate about **Artificial Intelligence**, **Natural Language Processing**, **Software Development** and **Art**.
